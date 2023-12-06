@@ -6,4 +6,5 @@ python -m venv venv
 pip install django
 django-admin startproject project .
 python manage.py runserver
+python manage.py startapp contact
 ```
