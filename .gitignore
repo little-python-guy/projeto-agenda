@@ -1,5 +1,5 @@
-venv
 .vscode
+venv
 contact/__pycache__
 contact/migrations/__pycache__
 project/__pycache__
