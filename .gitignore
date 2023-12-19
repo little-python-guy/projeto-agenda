@@ -1,8 +1,7 @@
 .vscode
 venv
-contact/__pycache__
-contact/migrations/__pycache__
-project/__pycache__
+__pycache__
+project/local_settings.py
 static/
 media/
 db.sqlite3
