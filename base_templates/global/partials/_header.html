@@ -30,7 +30,8 @@
           class="search-input"
           placeholder="Procurar"
           id="search"
-          name="q"
+          name="q",
+          value="{{request.GET.q.strip}}"
         >
       </form>
     </div>
