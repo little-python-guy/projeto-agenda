@@ -15,7 +15,6 @@ def create(request):
 
     if request.method == 'POST':
 
-
         form = ContactForm(request.POST, request.FILES)
 
         context = {
