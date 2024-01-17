@@ -5,3 +5,4 @@ project/local_settings.py
 static/
 media/
 db.sqlite3
+gunicorn-error-log
