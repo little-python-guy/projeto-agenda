@@ -6,6 +6,7 @@ Udemy: [https://www.udemy.com/course/python-3-do-zero-ao-avancado/](url))
 ## Ferramentas utilizadas
 - Visual Code Studio;
 - Python 3.11.1
+- HTML5 e CSS3 (Front-end);
 - Django Web Framework;
 - Pillow (para trabalhar com imagens);
 - Faker (para preencher a base de dados);
