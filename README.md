@@ -1,3 +1,20 @@
+# Projeto Agenda (com Django Web Framework)
+
+Projeto feito no curso de Python do instrutor Luiz Otávio (link para o curso na
+Udemy: [https://www.udemy.com/course/python-3-do-zero-ao-avancado/](url))
+
+## Ferramentas utilizadas
+- Visual Code Studio;
+- Python 3.11.1
+- Django Web Framework;
+- Pillow (para trabalhar com imagens);
+- Faker (para preencher a base de dados);
+- SQLite3 e PostgreSQL (base de dados);
+- Google Cloud Platform (para o servidor);
+- Máquina Virtual (Linux - Ubuntu 20.04 LTS);
+- Gunicorn (configuração do servidor);
+- Nginx (configuração do protocolo HTTP).
+
 ## Iniciar um projeto Django
 
 ```
